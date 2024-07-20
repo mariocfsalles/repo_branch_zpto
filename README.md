@@ -3,3 +3,4 @@
 - index.html -> OK
 - script.js -> OK
 - style.css -> OK
+- ajustado a sincronia entre numero de branch e PR
