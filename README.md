@@ -6,3 +6,4 @@
 - ajustado a sincronia entre numero de branch e PR
 - alterado o codigo de abertura automatica do PR
 - mais um teste
+- ultimo eu acho
